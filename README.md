@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Shrish Shete</h1>
+<h1 align="center">Hi 👋, I'm Shrish Shete</h1>
 <h3 align="center">Student at Indian Institute of Technology,Kanpur.</h3>
 
 - 🌱 I’m currently learning **R language,Competitive Programming.**
