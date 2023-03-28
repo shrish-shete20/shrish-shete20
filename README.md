@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shrish Shete</h1>
+\<h1 align="center">Hi 👋, I'm Shrish Shete</h1>
 <h3 align="center">Student at Indian Institute of Technology,Kanpur.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrish-shete20&label=Profile%20views&color=0e75b6&style=flat" alt="shrish-shete20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrish-shete20" alt="shrish-shete20" /></a> </p>
 
 - 🌱 I’m currently learning **R language,Competitive Programming.**
 
